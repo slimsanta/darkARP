@@ -1,6 +1,8 @@
 # darkARP
-ARP poisoning tool for linux
 
+
+## ARP poisoning tool for linux
+### FOR EDUCATIONAL PURPOSES ONLY. ONLY FOR USE ON NETWORKS/HARDWARE YOU OWN OR HAVE SPECIFIC CONSENT TO ATTACK. I DO NOT CONDONE ANY ILLEGAL ACTIVITY.
 
 1. Make sure you have scapy installed. https://scapy.readthedocs.io/en/latest/installation.html
 
