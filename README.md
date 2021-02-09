@@ -19,7 +19,7 @@
 
 4. Run darkARP 
           
-          python3 darkARP.py
+          'python3 darkARP.py'
           
           
 CTRL+C will restore original ARP tables and quit. 
